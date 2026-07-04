@@ -1,0 +1,9 @@
+.devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+.direnv
+.git
+.gitignore
+**/*_test.go
+internal/services/testdata
